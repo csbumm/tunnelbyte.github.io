@@ -1,1 +1,1 @@
-Tunnelbyte Github repository
+Tunnelbyte is here to provide a new start to a more secure internet, a lot of companies like Microsoft and Google are known to use their users data to perform various actions using their data without them knowing. Tunnelbyte is meant to provide security, safety, and privacy to its users.
