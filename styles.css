@@ -1,14 +1,15 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #212121;
     text-align: left;
     padding-top: 50px;
 }
 
 h1 {
+    font-family: Georgia, 'Times New Roman', Verdana, serif;
     color: white;
 }
 
 h3 {
+    font-family: Georgia, 'Times New Roman', Verdana, serif;
     color: white;
 }
